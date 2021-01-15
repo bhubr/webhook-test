@@ -4,6 +4,7 @@
   "description": "test test test test",
   "main": "index.js",
   "scripts": {
+    "build": "echo BUILD :D",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
